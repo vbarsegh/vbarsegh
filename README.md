@@ -1,4 +1,4 @@
-👋 Hi, I’m @vbarsegh
+👋 Hi, I’m @Vardan
 👀 I’m interested in programming and technology.
 🌱 I’m currently learning C and C++ at 42 Yerevan.
 💞️ I’m looking to collaborate on projects related to C/C++ development.
